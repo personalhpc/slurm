@@ -1,7 +1,5 @@
 # Install and configure SLURM on Personal HPC 64
 
-# Install
-
 ```sh
 sudo apt update
 sudo apt install -y munge libmunge2
