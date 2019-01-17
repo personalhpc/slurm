@@ -1,4 +1,4 @@
-# Install and configure SLURM on Personal HPC 64
+# Install and configure SLURM on Ubuntu 16.04 Personal HPC computers
 
 ```sh
 sudo apt update
