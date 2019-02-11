@@ -7,4 +7,5 @@
 #SBATCH --time=10:00
 
 srun hostname
+cat /proc/self/stat | awk '{print $39}'
 srun sleep 60
